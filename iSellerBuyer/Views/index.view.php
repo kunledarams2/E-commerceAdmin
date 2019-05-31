@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="../logStyle.css">
+    <link rel="stylesheet" href="CSS/logStyle.css">
     <title>Login</title>
 </head>
 <body>
@@ -28,7 +28,7 @@
                 </div> 
                 <input type="submit" value="LOG IN" class ="btn btn-primary btn-block"> <br>
                 <div class="regLinklabel">
-                <label for=""> <a href="Register.php">New User? Create Account</a></label>
+                <label for=""> <a href="Views/Register.view.php">New User? Create Account</a></label>
                 </div>
             
                 

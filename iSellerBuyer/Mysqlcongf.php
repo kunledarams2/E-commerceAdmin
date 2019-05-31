@@ -2,5 +2,5 @@
 
 <?php
 
-$connection= mysqli_connect("localhost","root","kunle");
+// $connection= mysqli_connect("localhost","root","kunle");
 ?>

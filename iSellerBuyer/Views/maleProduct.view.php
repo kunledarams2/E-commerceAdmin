@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,16 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a href="Contact-us.php">Contact Us </a></li>
-            <li><a href="About.php">About Us </a></li>
-        </ul>
-    </nav>
-    <li>
-        
-    </li>
-
-
+    <h1>Male</h1>
 </body>
 </html>

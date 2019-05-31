@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>About Us</h1>
+    <h1>Other</h1>
 </body>
 </html>
